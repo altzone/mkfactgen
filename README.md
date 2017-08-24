@@ -1,5 +1,6 @@
 # mkfactgen
 Generation de facture VOIP excel et stdout
+
 Utilisation:
  mkfactgen.php id_mera num_facture type_facture forfait type_sortie
 
